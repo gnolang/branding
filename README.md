@@ -7,9 +7,9 @@ Welcome to the central hub for all official Gno branding assets. Whether you're 
 📦 [**Download Complete Asset Archive**](https://github.com/gnolang/branding/archive/refs/heads/main.zip)
 
 ## Table of Contents
-- [Logos & Icons](#logos--icons)
-- [Official Colors](#official-colors)
-- [Typeface](#typeface)
+- [Logos & Icons](#logos--icons-🖼)
+- [Official Colors](#official-colors-🎨)
+- [Typeface](#typeface-🖋)
 
 ---
 
@@ -18,19 +18,11 @@ Discover Gno's official symbols, ranging from icons to various logo orientations
 
 **Available Formats:** PDF, PNG, SVG.
 
-- [**Icon**](assets/icon/)
-- [**Short Logo**](assets/short%20logo/)
-- [**Vertical Logo**](assets/vertical%20logo/)
-
----
-
 ## Official Colors 🎨
 The essence of Gno can be captured in just two colors. Below are their hex values for reference.
 
 - **White**: `#FFFFFF`
 - **Black**: `#000000`
-
----
 
 ## Typeface 🖋
 Gno proudly employs the [**Inter**](https://github.com/rsms/inter) typeface, optimized meticulously for digital screens.
