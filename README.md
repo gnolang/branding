@@ -7,9 +7,9 @@ Welcome to the central hub for all official Gno branding assets. Whether you're 
 📦 [**Download Complete Asset Archive**](https://github.com/gnolang/branding/archive/refs/heads/main.zip)
 
 ## Table of Contents
-- [Logos & Icons](#logos--icons-🖼)
-- [Official Colors](#official-colors-🎨)
-- [Typeface](#typeface-🖋)
+- [Logos & Icons](#logos--icons-)
+- [Official Colors](#official-colors-)
+- [Typeface](#typeface-)
 
 ---
 
