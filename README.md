@@ -16,7 +16,7 @@ Welcome to the central hub for all official Gno branding assets. Whether you're 
 ## Logos & Icons 🖼
 Discover Gno's official symbols, ranging from icons to various logo orientations.
 
-**Available Formats:** PDF, PNG, SVG.
+**Available Formats:** PNG, SVG.
 
 ## Official Colors 🎨
 The essence of Gno can be captured in just two colors. Below are their hex values for reference.
